@@ -28,11 +28,17 @@ A smart and interactive web-based tool that helps recruiters and hiring managers
 ---
 # Project Structure
 resume-matcher/
-├── main.py                  # Core Flask app with matching logic
+
+├── main.py  # Core Flask app with matching logic
+
 ├── templates/
+
 │   └── matchresume.html     # Web interface (form + results)
+
 ├── uploads/                 # Stores uploaded resume files
+
 ├── static/                  # (Optional) for custom CSS or assets
+
 └── README.md
 
 
@@ -60,6 +66,7 @@ Submit a Pull Request
 # Author
 Aryan Chaudhary
 📧 aryanshako@gmail.com
+
 🔗 https://www.linkedin.com/in/aryan-chaudhary-4b7741281/
 
 # Acknowledgments
