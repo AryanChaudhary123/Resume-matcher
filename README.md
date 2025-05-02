@@ -5,10 +5,12 @@ A smart and interactive web-based tool that helps recruiters and hiring managers
 ---
 
 ## 🚀 Demo
+![image](https://github.com/user-attachments/assets/5fd277aa-5d3d-413c-b75f-3db572987224)
 
-> Upload multiple resumes and enter a job description to get the top matching candidates with important keywords visually highlighted for transparency.
+![image](https://github.com/user-attachments/assets/f9cd79a8-5c1a-4ca2-bbb3-2fed7d3ba59b)
 
----
+![image](https://github.com/user-attachments/assets/85f43e62-d3e1-451a-b7de-2b54e614c5ea)
+
 
 ## ✨ Features
 
@@ -32,4 +34,12 @@ A smart and interactive web-based tool that helps recruiters and hiring managers
 | Deployment    | Flask (local server)     |
 
 ---
+# Project Structure
+resume-matcher/
+├── main.py                  # Core Flask app with matching logic
+├── templates/
+│   └── matchresume.html     # Web interface (form + results)
+├── uploads/                 # Stores uploaded resume files
+├── static/                  # (Optional) for custom CSS or assets
+└── README.md
 
