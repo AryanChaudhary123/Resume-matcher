@@ -35,6 +35,7 @@ resume-matcher/
 ├── static/                  # (Optional) for custom CSS or assets
 └── README.md
 
+
 ## Demo
 ![image](https://github.com/user-attachments/assets/5fd277aa-5d3d-413c-b75f-3db572987224)
 
