@@ -65,6 +65,7 @@ Submit a Pull Request
 
 # Author
 Aryan Chaudhary
+
 📧 aryanshako@gmail.com
 
 🔗 https://www.linkedin.com/in/aryan-chaudhary-4b7741281/
